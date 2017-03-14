@@ -8,9 +8,9 @@
 # About me
 
 ### Björn Zapadlo
-### Konstanz
-### 37 Jahre
-### Laufen / Fotografie
+### Constance
+### 37 years
+### Running / Photography
 
 ![left](images/11229711_10200846310556758_6677144313092777987_o.jpg)
 
@@ -29,26 +29,28 @@ http://de.linkedin.com/pub/bjoern-zapadlo/36/889/1a5
 
 ---
 
-# [fit] SeeIT
-# [fit] IT Meetup in Konstanz / Kreuzlingen
+# [fit] TBD
+# [fit] HC Logo + Head of Engineering
 
 ---
 
-# [fit]#nichtThemaHeute
+# [fit]#won'tTell
 1. Management 3.0
-1. Das funktioniert für alle
-1. Wahrheit
+1. That works for everybody
+1. Truth
 
 ![](images/mainzerhw_f.jpg)
 
-^ Keine Wahrheit sondern nur Meinung
+^ No truth just my opinion
 
 ---
 
 # [fit]Agenda  
 ##ALM... WTF?
-##Warum?
-##Was?
+##Why?
+##How?
+
+^ Additionally you will know why I have to run so much ;)
 
 ---
 
@@ -70,64 +72,64 @@ http://de.linkedin.com/pub/bjoern-zapadlo/36/889/1a5
 --- 
 
 # [fit] Agile  
-# [fit] braucht kein
+# [fit] doesn't need
 # [fit] Management!
 
 ![50%](images/71l6dsqhHiL._SL1500_.jpg)
 
 ---
 
-# [fit] Doch
-# ...ein bisschen
+# [fit] But
+# ...a bit at least
 
-^ Leute sind zufrieden
-< 5% Fluktuation
-Leute wollen manchmal ein wenig Führung und Feedback
-Warum und wie sage ich euch heute
-
----
-
-# [fit] Was mache 
-# [fit] ich denn?
+^ People are satisfied => show later how I measure this
+< 5% Fluctuation / average time people stay with holidaycheck 4 years
+People have a demand for being lead and getting feedback
+Today I will try to show you reasons for it and how I think this can be done
 
 ---
 
-![original](images/Screen Shot 2017-01-23 at 15.41.32 \(2\).png)
+# [fit] What 
+# [fit] I do?
 
 ---
 
-# Ich sage meinen Angestellten nicht, **WAS** sie **WIE** zu machen haben.
+![original](images/Screen Shot 2017-01-23 at 15.41.32 \(2\)english.png)
 
 ---
 
-## 30 Leute führen (Devs & SMs)
+# I do not tell my employees **WHAT TO DO** and **HOW TO DO IT**
+
+---
+
+## Lead 30 people (Devs & SMs)
 ## Recruiting
-## Weiterentwicklung
-## Peer für Architektur auf Nachfrage
+## Personal development
+## Peer for architecture on request
+## Consulting e.g. for OKRs
 ## Conferences / Trainings
 
 ---
 
-# Die richtigen Leute zur richtigen Zeit am richtigen Tisch
+# The right people sit at the right time at the right table
 
 ---
 
-![inline](http://www.visualstatements.net/wp-content/uploads/2015/12/habeproblem.jpg)
-
-^ Probleme lösen
+# I solve problems
+![original](images/maxresdefault.jpg)
 
 ---
 
 # Ergo
-### Weniger Management
-## Mehr Leadership
+### Less management
+## More leadership
 
 ![](images/Calm_Leader.jpg)
 
 ---
 
-# [fit] Warum
-# ...an was ich glaube
+# [fit] Why
+# ...my beliefs
 
 ---
 
@@ -135,9 +137,18 @@ Warum und wie sage ich euch heute
 
 ![original](images/touching-the-plasma-ball-lamp-picjumbo-com.jpg)
 
-^ Für Teams und auch für mich
-Fehler machen ist okay
-Entscheidungen treffen
+^ For Teams and also for me
+Basis for driving decisions
+
+---
+
+## “Experience is simply the name we give our mistakes.” 
+
+## *Oscar Wilde*
+
+![](images/oscalWilde.jpg)
+
+^ Mistakes are okay even more they are important to learn
 
 ---
 
@@ -198,13 +209,19 @@ Immer wieder
 
 ---
 
-# [fit] ~~Menschen~~
-# [fit] ~~ändern~~
+# [fit] ~~Change~~
+# [fit] ~~people~~
 
 ---
 
-# [fit]V = f(P,U)
-^ Verhalten = funktion(Persönlichkeit, Umwelt)
+# [fit]B = f(P,E)
+^ Behaviour = function(Personality, Environment)
+
+---
+
+# The only one I can change is me
+
+^ Different people have to be treated differently at different points in time
 
 ---
 
@@ -234,6 +251,7 @@ Mgmt Stil an den Mitarbeiter anpassen
 Scrum Master fokussiert auf das Team
 ALM fokussiert auf die Individuen
 Zusammen in Richtung Company Improvement
+ich will alles wissen => aber handle erst, wenn ich aufgefordert werde
 
 ---
 
@@ -248,32 +266,8 @@ Agilität hat was mit Wollen & Passion zu tun
 
 ---
 
-# [fit] Was
-# Meine Tools
-
----
-
-# [fit]Recruiting
-
-![70%](images/890x.png)
-
-^ 2 stufiger Prozess: Skype & Face 2 Face
-Direkt am Anfang jemand aus dem Team dabei
-Teams entscheiden
-Hire 4 will not skill
-Bei Zweifeln nicht einladen
-
-
----
-
-# [fit] Monthlys
-
-![original](images/155H.jpg)
-
-^ Formales Gespräch alle 4 Wochen
-ersetzt nich das normale spontane Gespräch
-Wie fühlt sich der MA
-Manchmal auch nur 5 min
+# [fit] How
+# My tools
 
 ---
 
@@ -295,16 +289,6 @@ Team Probleme ansprechen
 Wertschätzung
 Keine echte Agenda
 Alle 6 Wochen
-
----
-
-# [fit] Gemba walk
-
-![original](images/csid46dq4la-sweet-ice-cream-photography.jpg)
-
-^ ca. 15 min am Tag
-Rein schauen, was die Leute so machen
-Ein Witz / Spruch
 
 ---
 
@@ -337,6 +321,46 @@ Schöne Gegenleistung für Extraleistung
 
 ---
 
+# [fit] Now you know why I have to run so much
+
+---
+
+# [fit] Gemba walk
+
+![original](images/csid46dq4la-sweet-ice-cream-photography.jpg)
+
+^ ca. 15 min am Tag
+Rein schauen, was die Leute so machen
+Ein Witz / Spruch
+Feel the atmosphere
+Really valuable invest
+
+---
+
+# [fit]Recruiting
+
+![70%](images/890x.png)
+
+^ 2 stufiger Prozess: Skype & Face 2 Face
+Direkt am Anfang jemand aus dem Team dabei
+Teams entscheiden
+Hire 4 will not skill
+Bei Zweifeln nicht einladen
+
+
+---
+
+# [fit] Monthlys
+
+![original](images/155H.jpg)
+
+^ Formales Gespräch alle 4 Wochen
+ersetzt nich das normale spontane Gespräch
+Wie fühlt sich der MA
+Manchmal auch nur 5 min
+
+---
+
 ![](images/slack-lead1.jpg)
 
 ^ Zentrales Entwickler Tool zur Kommunikation
@@ -357,11 +381,13 @@ Alles sofort auf eine Liste
 
 ![original](images/181H.jpg)
 
-^ Transparenz
+^ Transparency
+Focus
 Purpose
 Overhead
-Schwierig => Hard to master
-Bonus doof
+Hard to master
+Do not couple with a bonus
+(nearly) vverything could be covered by OKRs
 
 ---
 
@@ -375,6 +401,11 @@ Bonus doof
 # [fit] Feedback
 
 ![](https://embedwistia-a.akamaihd.net/deliveries/9556ba0ac4dc56df888990a35744877145be50db.jpg)
+
+---
+
+# [fit] Moving
+# [fit] Motivators
 
 ---
 
