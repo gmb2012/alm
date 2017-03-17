@@ -16,6 +16,10 @@
 
 ---
 
+![original](images/hc-hoe.png)
+
+---
+
 #CONTACT ME
 bjoern.zapadlo@gmail.com
 
@@ -26,11 +30,6 @@ http://www.zapadlo.de
 https://www.xing.com/profile/Bjoern_Zapadlo
 
 http://de.linkedin.com/pub/bjoern-zapadlo/36/889/1a5
-
----
-
-# [fit] TBD
-# [fit] HC Logo + Head of Engineering
 
 ---
 
@@ -152,60 +151,69 @@ Basis for driving decisions
 
 ---
 
-# [fit] Ehrlichkeit 
+# [fit] Honesty 
 # [fit] & 
-# [fit] Transparenz
+# [fit] Transparency
 
 ![original](images/Invisible_man.jpg)
 
 ^ Basis
-Wenn was nicht passt, muss es angesprochen werden
-Es ist okay ein Ziel nicht zu erreichen
-Beispiel: Tagessätze externe Firma an Team => die wollen die Gründe verstehen
-Ziel != Bonus
+If something does not work / fit one has to talk about it to fix it
+Let people at least know the reasons behind a decision
+Example of transparency:
+People know where I am => Office monitor
+Daily rates of freelancers => knowing the reasons
+Setting clear goals but not paying a bonus dependend on the goals
 
 ---
 
-# [fit] Flache Hierarchie
+# [fit] Flat hierarchy
 
 ![original](images/img_3063.jpg)
 
-^ Hierarchie verhindert Ehrlichkeit
-Hierarchie verhindert Transparenz
-Hierarchie verhindert Geschwindigkeit
+^ 
+hierarchy hinders honesty, transparency and speed => example with architectural proposals
 
 ---
 
-# [fit] Authentizität
+# [fit] Authenticity
 
 ![original](images/422218_1868502408988_1801956178_n.jpg)
 
-^ Ich bin ich
+^ I am me
+It is okay to be grumpy sometimes
+It is okay to to be 100% behind a decision from above
+There is a role of HoE but it is filled with me as a person
 
 ---
 
-# [fit] Vertrauen
+# [fit] Trust
 
 ![original](images/010117pow_cliffhanger.png)
 
-^ Die Basis von allem
+^ THe foundation of collaboration
+I hire people I trust
+Without trust collaboration is not possible
+handover => cooperation => collaboration
+Bulding trust => find similarities => canon example
 
 ---
 
-## “Vertrauen ist das Gefühl, einem Menschen sogar dann glauben zu können, wenn man weiss, dass man an seiner Stelle lügen würde.” 
+## “The best way to find out if you can trust somebody is to trust them.” 
 
-## *Henry Louis Mencken*
+## *Ernest Hemingway*
 
-![](http://www.trbimg.com/img-540f5a62/turbine/bcp-marion-elizabeth-rodgers-continues-her-lif-001/650/650x366)
+![](images/ernest.jpg)
 
 ---
 
-# [fit] Vertrauensvorschuss
+# [fit] Leap of faith
 
 ![](images/dollar-bills_0.jpg)
 
-^ Kernaufgabe einer FK
-Immer wieder
+^ Core task of a supervisor
+Has to be done again and again
+Right from the start
 
 ---
 
@@ -225,20 +233,21 @@ Immer wieder
 
 ---
 
-# [fit] Eskalation
+# [fit] Escalation
 
 ![original](images/ntfgygpurfa-lemuel-butler.jpg)
 
-^ Die disziplinarische Peitsche ist immer schlecht, aber manchmal eben nötig
+^ The disciplinary whip is always the last level but sometimes people need to get a straight call by their supervisor
 
 ---
 
-# [fit] Empathie
+# [fit] Empathy
 
 ![](images/103H.jpg)
 
-^ Extrem wichtiger Skill im Umgang mit Menschen
-Mgmt Stil an den Mitarbeiter anpassen
+^ Imho the most important skill in interaction with people
+In addition the leads hopefully to adapting your way of interaction to your opposite
+mastery: level 1 read the feelings, level 2 adjust your behaviour
 
 ---
 
@@ -247,11 +256,11 @@ Mgmt Stil an den Mitarbeiter anpassen
 
 ![original](images/batman-v-superman-henry-cavill3.jpg)
 
-^ Ein Team
-Scrum Master fokussiert auf das Team
-ALM fokussiert auf die Individuen
-Zusammen in Richtung Company Improvement
-ich will alles wissen => aber handle erst, wenn ich aufgefordert werde
+^ ONE team
+Focus of Scrum Master is the team
+ALM's focus are the individuals
+Together they work to tackle Company imediments, improvements and agile transformation
+But for teams I like to know about conflicts. I will just act if I am asked for help not before. Reason: to be able to defend
 
 ---
 
@@ -259,10 +268,11 @@ ich will alles wissen => aber handle erst, wenn ich aufgefordert werde
 
 ![original](images/hand-love-heart-by-the-sea-picjumbo-com.jpg)
 
-^ Spaß erzeugt Passion
-Leute wollen gute Laune & Entertainment
-Organisation von Events
-Agilität hat was mit Wollen & Passion zu tun
+^ Fun is one of the sources of passion
+People like to have fun & entertainment
+Topic content also a factor but often less important
+the bottom line of agility is will and passion
+events work to provide fun
 
 ---
 
@@ -271,12 +281,14 @@ Agilität hat was mit Wollen & Passion zu tun
 
 ---
 
-# [fit] Kaffee
+# [fit] Coffee
 
 ![original](images/319H.jpg)
 
-^ Küche ist der Place to be um Gerüchte und Gefühle aufzuschnappen
-Mit versch Leuten am Tag
+^ Normally the kitche is the place for rumors, feelings and news
+Flurfunk aka Hallway radio
+With single people and groups
+2 - 3 times a day
 
 ---
 
@@ -284,21 +296,23 @@ Mit versch Leuten am Tag
 
 ![](images/290H.jpg)
 
-^ Das ganze Produkt Team ist eingeladen
-Team Probleme ansprechen
-Wertschätzung
-Keine echte Agenda
-Alle 6 Wochen
+^ The whole product team incl. all roles is invited
+Once a quarter
+Talk about problems, milestones, technical stuff, private stuff, ...
+People feel esteemed
+No fixed agenda
 
 ---
 
-# [fit] Feierabend Bier
+# [fit] After work beer
 
 ![original](images/pattern-of-soda-drink-cans-picjumbo-com.jpg)
 
-^ Spontan => Bei Gemba walk annonuncen 
-Geplant
-Über Abteilungsgrenzen hinaus
+^ Spontaneous => announce in kitchen, office, ...
+Self-payed
+Planned and payed 
+Spontan => Bei Gemba walk annonuncen 
+Free for all => also other departments => normally they really talk about business stuff
 
 ---
 
@@ -306,8 +320,9 @@ Geplant
 
 ![original](images/pile-of-yellow-sweet-bon-bons-picjumbo-com.jpg)
 
-^ Leute kommen vorbei => Verschiedene Abteilungen
-Open Office
+^ Storage container in my office with sweets
+People from different departments come along and often there is a little chat
+Also good to bring the sweets directly to the teams if they did something good or if there is bad mood
 
 ---
 
@@ -413,13 +428,15 @@ Do not couple with a bonus
 
 ---
 
-# [fit] Wer misst, misst Mist!
+# [fit] Wer misst, misst Mist!*
+## * Who measures measures rubbish! 
 
 ![original](images/Misthaufen.jpg)
 
 ^ Meist zu lange Abstände
 Anonymität ist super wichtig
 Aufwendig
+Schrödinger goes survey
 Meist optimiert sich ein System auf das System
 
 ---
@@ -447,8 +464,7 @@ Hängt vom Team ab
 
 ---
 
-# [fit] Das geht auch 
-# [fit] besser
+# [fit] Imropvements
 
 ![original](images/man-with-open-arms-saluting-the-nature-picjumbo-com.jpg)
 
