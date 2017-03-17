@@ -327,16 +327,18 @@ Also good to bring the sweets directly to the teams if they did something good o
 ---
 
 # [fit] Dinner
-^ Manche Leute brauchen diesen Kontakt
-Erfahrung: Oft 3 Stunden nur über die Arbeit gesprochen
-Wird als große Wertschätzung empfunden
-Schöne Gegenleistung für Extraleistung
+^ My experience: Some of my employees value this kind of contact. Approx. 20% of mine.
+Of a dinner of 4 hours normally we talk 3h about work related stuff.
+People feel extremly esteemed by this
+Downside might be that others become envy
+Also this is a really good return of invest for performance
+No recurring appointment. On demand.
 
 ![](images/enjoying-a-tasty-burger-picjumbo-com.jpg)
 
 ---
 
-# [fit] Now you know why I have to run so much
+# [fit] Now you know why I have to run so much ;)
 
 ---
 
@@ -344,9 +346,9 @@ Schöne Gegenleistung für Extraleistung
 
 ![original](images/csid46dq4la-sweet-ice-cream-photography.jpg)
 
-^ ca. 15 min am Tag
-Rein schauen, was die Leute so machen
-Ein Witz / Spruch
+^ approx. 15 - 30 min per day
+just step in the office and look what people are doing and how they look
+Saying something funny or asking a question "Everything is okay" 
 Feel the atmosphere
 Really valuable invest
 
