@@ -68,6 +68,8 @@ http://de.linkedin.com/pub/bjoern-zapadlo/36/889/1a5
 
 ![](images/paradox.jpg)
 
+^ That sounds paradox
+
 --- 
 
 # [fit] Agile  
@@ -99,18 +101,21 @@ Today I will try to show you reasons for it and how I think this can be done
 
 # I do not tell my employees **WHAT TO DO** and **HOW TO DO IT**
 
----
-
-## Lead 30 people (Devs & SMs)
-## Recruiting
-## Personal development
-## Peer for architecture on request
-## Consulting e.g. for OKRs
-## Conferences / Trainings
+^ Why?
+I am the least to know about software architecture / programming languages / ...
 
 ---
 
-# The right people sit at the right time at the right table
+### Lead 32 people (Devs & SMs)
+### Recruiting
+### Personal development
+### Peer for architecture on request
+### Consulting e.g. for OKRs
+### Conferences / Trainings
+
+---
+
+# The **right people** sit at the **right time** at the **right table**
 
 ---
 
@@ -171,8 +176,7 @@ Setting clear goals but not paying a bonus dependend on the goals
 
 ![original](images/img_3063.jpg)
 
-^ 
-hierarchy hinders honesty, transparency and speed => example with architectural proposals
+^ hierarchy hinders honesty, transparency and speed => example with architectural proposals
 
 ---
 
@@ -191,8 +195,8 @@ There is a role of HoE but it is filled with me as a person
 
 ![original](images/010117pow_cliffhanger.png)
 
-^ THe foundation of collaboration
-I hire people I trust
+^ The foundation of collaboration
+I hire people I trust. If you do not trust people you should not hire people.
 Without trust collaboration is not possible
 handover => cooperation => collaboration
 Bulding trust => find similarities => canon example
@@ -211,7 +215,8 @@ Bulding trust => find similarities => canon example
 
 ![](images/dollar-bills_0.jpg)
 
-^ Core task of a supervisor
+^ you have to give an advance in trust
+Core task of a supervisor
 Has to be done again and again
 Right from the start
 
@@ -227,7 +232,8 @@ Right from the start
 
 ---
 
-# The only one I can change is me
+# I can only change 3 people:
+# me, myself & I
 
 ^ Different people have to be treated differently at different points in time
 
@@ -260,7 +266,7 @@ mastery: level 1 read the feelings, level 2 adjust your behaviour
 Focus of Scrum Master is the team
 ALM's focus are the individuals
 Together they work to tackle Company imediments, improvements and agile transformation
-But for teams I like to know about conflicts. I will just act if I am asked for help not before. Reason: to be able to defend
+But for teams I like to know about conflicts. I will just act if I am asked for help not before. Reason: to be able to defend / tell it is under control
 
 ---
 
@@ -338,7 +344,8 @@ No recurring appointment. On demand.
 
 ---
 
-# [fit] Now you know why I have to run so much ;)
+# [fit] Now you know 
+# [fit] why I have to run
 
 ---
 
@@ -358,12 +365,14 @@ Really valuable invest
 
 ![70%](images/890x.png)
 
-^ 2 stufiger Prozess: Skype & Face 2 Face
-Direkt am Anfang jemand aus dem Team dabei
-Teams entscheiden
-Hire 4 will not skill
-Bei Zweifeln nicht einladen
-
+^ 2-step process
+Jedi program => other department
+Values / focus on soft skill
+Right at the beginning someone from the team is present
+2. step => just with the potential team
+the team decides
+hire for will and not for skill
+if in doubt we will no proceed
 
 ---
 
@@ -371,26 +380,33 @@ Bei Zweifeln nicht einladen
 
 ![original](images/155H.jpg)
 
-^ Formales Gespräch alle 4 Wochen
-ersetzt nich das normale spontane Gespräch
-Wie fühlt sich der MA
-Manchmal auch nur 5 min
-
----
-
-![](images/slack-lead1.jpg)
-
-^ Zentrales Entwickler Tool zur Kommunikation
-Zu viel!!!
-Viel Eskalation
+^ formal talk every 4 weeks
+concentrated on Mondays
+does not replace spontaneous talks
+Focus: how does the employee feel => impediments
+Less on what he is doing
+Documentation by wunderlist
+30 minutes are blocked, sometime just 5 minutes
 
 ---
 
 ![](images/wunderlist_red_wallpaper_by_d0od-d848xd5.jpg)
 
-^ Dokumentation für alle 1:1
-Planung meines Tages / Woche
-Alles sofort auf eine Liste
+^ Documentation of my 1:1s / Team Meetings
+Planning my day / week
+Putting everything instantly on the list even a 5 min task => not to forget it
+Yes, I am using Outlook too ;)
+Everthing that has a fixed date I move to an Outlook appointment
+Measure of my work => > 2000 Tasks a year
+
+---
+
+![](images/slack-lead1.jpg)
+
+^ first choice of communication for our developers
+many integrations into our tool landscape
+Too much
+Plenty of escalation because of non verbal communication => you have to have an eye on this and sometimes even encourage people to use private channels or evenn better to talk in face to face
 
 ---
 
@@ -398,20 +414,36 @@ Alles sofort auf eine Liste
 
 ![original](images/181H.jpg)
 
-^ Transparency
-Focus
-Purpose
-Overhead
-Hard to master
+^ Transparency, Focus, Purpose
+Feels like overhead => imho it's not
+Hard to master => we are doing it for more than one year and still it feels not good
+Formulation
+Value driven aka outcome
+break down of metrics
+people think in tasks => OKRs are not a project planning tool
+Less is more
 Do not couple with a bonus
-(nearly) vverything could be covered by OKRs
+(nearly) everything could be covered by OKRs
+Not achieving is okay => 70% mindeset seems to be hard
 
 ---
 
 ![original](images/company-dashboards-1024x796.png)
 
 ^ Betterworks
-^ Halb geil
+Works okayish
+Better than not having a tool
+
+---
+
+# [fit] Moving
+# [fit] Motivators
+
+^ Accept that people have different motivations
+Even if you do not understand it
+I do not do this with my employees directly with cards
+I use it for me to find out what I think motivates them
+Then try to verify this in 1:1s
 
 ---
 
@@ -421,12 +453,9 @@ Do not couple with a bonus
 
 ---
 
-# [fit] Moving
-# [fit] Motivators
+# Who has done an employee survey last year?
 
----
-
-# Wer hat letztes Jahr eine Mitarbeiterumfrage gemacht?
+^ How often? => 1, 2, > 3
 
 ---
 
@@ -435,11 +464,14 @@ Do not couple with a bonus
 
 ![original](images/Misthaufen.jpg)
 
-^ Meist zu lange Abstände
-Anonymität ist super wichtig
-Aufwendig
-Schrödinger goes survey
-Meist optimiert sich ein System auf das System
+^ What was the outcome? => Hard to tell => variation
+What actions were taken? => often none after the first survey
+It is expensive to do so
+Lots of effort to prepare and get insights => Excel vodoo magic
+It sucks to fill out a 30 page form
+The frequency is too low
+People complain about recent things not about stuff that happend 3 months ago
+Beeing anonymous is super important
 
 ---
 
@@ -448,11 +480,11 @@ Meist optimiert sich ein System auf das System
 ![](images/officevibe_screenshot3.png)
 
 ^ SAAS
-Fragen werden gestellt
-Auswertungen sehr gut
-Vergleich von verschiedenen Gruppen
-Mehrere KPIs
-Feedback
+Provided questions which are mostly quite good
+Different KPIs / categories e.g. relationship with colleagues / manager
+Nice charts ;)
+group comparison => gamification
+Feedback => anonymous and not anonymous
 
 ---
 
@@ -460,18 +492,18 @@ Feedback
 
 ![](http://philippe.bourgau.net/imgs/2016-03-12-stop-feeling-like-a-kid-everytime-you-ask-a-day-off/delegation-board-large.jpg)
 
-^ Basis von allem => Sonst wäre ich nicht in der Lage zu arbeiten
-Delegation Board
-Hängt vom Team ab
+^ Foundation of my style of work => too many people and I am lazy
+Deleagtion board on request => not upfront
+Depends on the maturity of the team
 
 ---
 
-# [fit] Imropvements
+# [fit] Improvements
 
 ![original](images/man-with-open-arms-saluting-the-nature-picjumbo-com.jpg)
 
-^ Dailies aller Teams zu besuchen
-Bei den Teams sitzen
+^ Visit the dailies of my teams more recently
+Spend time in the team rooms
 
 ---
 
