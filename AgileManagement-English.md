@@ -122,6 +122,10 @@ I am the least to know about software architecture / programming languages / ...
 # I solve problems
 ![original](images/maxresdefault.jpg)
 
+^ Uber Scrum Master
+Department / Company Level
+Also individuals
+
 ---
 
 # Ergo
